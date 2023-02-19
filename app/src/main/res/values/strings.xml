@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="welcome_to_vikas_knowledge_hub">WELCOME TO KNOWLEDGE HUB</string>
+    <string name="let_s_go">LET\'S GO</string>
+    <string name="welcome_to_education_hub">WELCOME TO CSE HUB</string>
+    <string name="contact_me">CONTACT ME</string>
+</resources>
